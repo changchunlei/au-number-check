@@ -1,0 +1,13 @@
+{
+  "name": "au-number-check",
+  "version": "1.0.0",
+  "description": "Check an Australian phone number against EndSpam's community spam/scam reports, from the terminal.",
+  "type": "module",
+  "bin": { "au-number-check": "index.mjs" },
+  "engines": { "node": ">=18" },
+  "repository": { "type": "git", "url": "https://github.com/changchunlei/au-number-check" },
+  "homepage": "https://www.endspam.org",
+  "keywords": ["australia", "phone", "spam", "scam", "lookup", "cli", "osint"],
+  "license": "MIT",
+  "author": "C Chang"
+}
