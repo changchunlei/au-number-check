@@ -57,3 +57,5 @@ Disclosure: I run EndSpam. This CLI is a thin, dependency-free client for its pu
 ## License
 
 [MIT](LICENSE) © 2026 EndSpam contributors
+
+[![Powered by Supadata](https://supadata.ai/badge/powered-by-supadata-light-small.svg)](https://supadata.ai/r/3YW2NR6K)
